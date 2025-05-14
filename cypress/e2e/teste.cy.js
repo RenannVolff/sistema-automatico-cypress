@@ -1,6 +1,6 @@
 describe('Teste de Registro de Usuário', () => {
   // 1. Definindo a baseUrl corretamente
-  const baseUrl = 'http://172.32.90.38:8000';
+  const baseUrl = 'http://172.32.165.98:8000';
 
   it('Deve registrar um novo usuário com sucesso', () => {
     // 2. Dados do teste

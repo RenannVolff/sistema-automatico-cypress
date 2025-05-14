@@ -1,5 +1,5 @@
 describe('Gerenciamento Completo de Contas', () => {
-    const baseUrl = 'http://172.32.90.38:8000';
+    const baseUrl = 'http://172.32.165.98:8000';
     
     // Função para gerar usuário de teste único
     const getTestUser = () => {
